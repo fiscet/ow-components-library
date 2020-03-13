@@ -1,0 +1,10 @@
+{
+  "name": "ow-components-library",
+  "version": "0.1.0",
+  "description": "Orgware Components Library",
+  "main": "index.js",
+  "repository": "https://github.com/fiscet/ow-components-library.git",
+  "author": "Christian Zanchetta <contatto@fiscet.it>",
+  "license": "MIT",
+  "private": false
+}
